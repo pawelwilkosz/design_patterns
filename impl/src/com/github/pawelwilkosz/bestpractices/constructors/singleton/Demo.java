@@ -1,4 +1,4 @@
-package com.github.pawelwilkosz.constructors.singleton;
+package com.github.pawelwilkosz.bestpractices.constructors.singleton;
 
 public class Demo {
     public static void main(String[] argc){

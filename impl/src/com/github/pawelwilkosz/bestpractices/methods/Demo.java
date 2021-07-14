@@ -1,4 +1,4 @@
-package com.github.pawelwilkosz.methods;
+package com.github.pawelwilkosz.bestpractices.constructors.methods;
 
 import lombok.Getter;
 

@@ -2,7 +2,7 @@
     Please refer to this page to learn more about singleton:
     https://howtodoinjava.com/design-patterns/creational/singleton-design-pattern-in-java/
  */
-package com.github.pawelwilkosz.constructors.singleton;
+package com.github.pawelwilkosz.bestpractices.constructors.singleton;
 
 import java.io.ObjectStreamException;
 import java.io.Serializable;

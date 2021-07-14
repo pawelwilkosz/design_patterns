@@ -1,4 +1,4 @@
-package com.github.pawelwilkosz.constructors.parametrization;
+package com.github.pawelwilkosz.bestpractices.constructors.parametrization;
 
 public class Employee {
     private final String firstName;

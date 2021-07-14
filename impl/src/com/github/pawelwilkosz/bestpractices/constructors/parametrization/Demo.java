@@ -1,4 +1,4 @@
-package com.github.pawelwilkosz.constructors.parametrization;
+package com.github.pawelwilkosz.bestpractices.constructors.parametrization;
 
 public class Demo {
     public static void main(String[] argc){

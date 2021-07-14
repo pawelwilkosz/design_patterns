@@ -1,7 +1,7 @@
 /*
 Principle - object should not be changed after creation
  */
-package com.github.pawelwilkosz.methods;
+package com.github.pawelwilkosz.bestpractices.constructors.methods;
 
 public class Employee {
     private String firstName;

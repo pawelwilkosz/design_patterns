@@ -1,6 +1,0 @@
-Strategy design pattern
-
-PURPOSE: Changing object behavior during runtime
-WIKI: https://pl.wikipedia.org/wiki/Strategia_(wzorzec_projektowy)
-IMPLEMENTATION:
-- Game heroe. Design pattern presents changing his way of fighting (fight by knife then by arc)s

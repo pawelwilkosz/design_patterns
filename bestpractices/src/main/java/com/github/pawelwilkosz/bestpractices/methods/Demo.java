@@ -1,7 +1,5 @@
 package com.github.pawelwilkosz.bestpractices.methods;
 
-import lombok.Getter;
-
 public class Demo {
     public static void main(String[] argc){
         Employee e1 = new Employee.Builder()

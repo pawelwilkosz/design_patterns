@@ -13,7 +13,7 @@ namespace DesignPatterns
                                     .OnGlobalEndpoint("<GLOBAL ENDPOINT>")
                                     .WithScopeId("<SCOPE ID>")
                                 .Encrypts
-                                    .UsingCert("<CERT>")
+                                    .UsingCert("<CERTS>")
                                     .WithPrivateKey("<PRIVATE KEY>");
 
             Console.WriteLine(device.PrivateKey);

@@ -7,5 +7,5 @@ csharp/DesignPatterns/Builder/bin/*
 csharp/DesignPatterns/DeepCopyable/obj/*
 csharp/DesignPatterns/DeepCopyable/bin/*
 csharp/DesignPatterns/.vs/DesignPatterns/*
-csharp/DesignPatterns/Singleton/Singleton/bin/*
-csharp/DesignPatterns/Singleton/Singleton/obj/*
+csharp/DesignPatterns/Singleton/bin/*
+csharp/DesignPatterns/Singleton/obj/*

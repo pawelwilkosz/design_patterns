@@ -1,3 +1,8 @@
 csharp/DesignPatterns/Factory/obj/*
 csharp/DesignPatterns/Builder/obj/*
-
+csharp/DesignPatterns/Builder/bin/*
+.vs/*
+csharp/DesignPatterns/.vs/*
+csharp/DesignPatterns/Builder/bin/*
+csharp/DesignPatterns/DeepCopyable/obj/*
+csharp/DesignPatterns/DeepCopyable/bin/*
